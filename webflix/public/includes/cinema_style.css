@@ -1,0 +1,25 @@
+h1, h2, h3, h4, h5 {
+	font-family: 'Julius Sans One', sans-serif; !important;
+	color: #2E2C2C !important;
+	text-align: center !important;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif !important;
+	text-align: center !important;
+	color: #2E2C2C !important;
+	background-color: #000000 !important;
+} 
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 20px;
+}
